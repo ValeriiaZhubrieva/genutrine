@@ -499,6 +499,10 @@ body {
 .features__img img {
   width: 100%;
   object-fit: cover;
+}
+.features__img video {
+  width: 100%;
+  object-fit: contain;
 }:root {
   --second-family: Montserrat, sans-serif;
 }
